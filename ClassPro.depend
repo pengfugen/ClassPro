@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506389376 source:f:\workspace(cpp)\classpro\main.cpp
+	<iostream>
+	"ClassPro.h"
+
+1506577913 f:\workspace(cpp)\classpro\include\classpro.h
+	<string>
+
+1506577876 source:f:\workspace(cpp)\classpro\src\classpro.cpp
+	"ClassPro.h"
+	<string.h>
+	<iostream>
+
